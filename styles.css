@@ -64,7 +64,7 @@ header h1:nth-of-type(2) {
     display: inline-block;
     margin-top: 10px;
     padding: 10px 20px;
-    background-color: #5BD998 ;
+    background-color: #4CB07D ;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -73,7 +73,7 @@ header h1:nth-of-type(2) {
 }
 
 .map-button:hover {
-    background-color: #5BD998;
+    background-color: #4CB07D;
 }
 
 .countdown {
@@ -81,7 +81,7 @@ header h1:nth-of-type(2) {
     justify-content: space-around;
     margin-top: 20px;
     font-size: 1.5em;
-    background: #5BD998 ; /* Taymer orqasidagi pushti rang */
+    background: #4CB07D ; /* Taymer orqasidagi pushti rang */
     color: #fff; /* Matn rangi */
     padding: 10px; /* Taymerni qoplovchi bo'shliq */
     border-radius: 10px; /* Taymer atrofidagi yumaloq burchaklar */
@@ -91,7 +91,7 @@ header h1:nth-of-type(2) {
 .countdown .time {
     font-size: 18px;
     font-weight: bold;
-    background:#5BD998 ;
+    background: #4CB07D ;
     padding: 5px;
     border-radius: 5px;
 }
@@ -100,7 +100,7 @@ header h1:nth-of-type(2) {
     display: inline-block;
     margin-top: 20px;
     padding: 10px 30px;
-    background-color: #4ef70e ;
+    background-color: #4CB07D ;
     color: #fff;
     font-size: 1.2em;
     font-weight: bold;
@@ -112,12 +112,12 @@ header h1:nth-of-type(2) {
 }
 
 #playPauseBtn:hover {
-    background-color: #8c4c6c;
+    background-color: #4CB07D;
     transform: scale(1.05);
 }
 
 #playPauseBtn:active {
-    background-color: #6f3e56;
+    background-color: #4CB07D;
     transform: scale(0.98);
 }
 
